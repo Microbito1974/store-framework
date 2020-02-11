@@ -4,9 +4,10 @@
       "rich-text"
     ]
   },
-  "rich-text":
-    "props":{
+  "rich-text": {
+    "props": {
       "text": "Hello *World!*",
       "textPosition":  "CENTER"
     }
+  }
 }
