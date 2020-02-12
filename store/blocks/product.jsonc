@@ -20,8 +20,11 @@
   },
   "flex-layout.col#right": {
     "props":{
+      "paddingBottom":"5",
+      "preventHorizontalStretch":"true",
       "horizontalAlign": "center",
-      "verticalAlign":"middle"
+      "verticalAlign":"middle",
+      "preventVerticalStretch":"true"
     },
     "children": [
       "product-name", "product-price", "buy-button"
